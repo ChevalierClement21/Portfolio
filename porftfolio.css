@@ -2,7 +2,6 @@
 header img{
     float: left;
     width: 100px
-    height:100%
 }
 #fond{
     background-image:url(fond.jpg);
