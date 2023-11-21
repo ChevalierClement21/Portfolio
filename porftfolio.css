@@ -1,13 +1,29 @@
-
+#format{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
 header img{
     float: left;
-    width: 100px
+    max-width: 10%;
 }
-#fond{
-    background-image:url(/image/fond.jpg);
-    background-size: cover;
+header{
+    height: 90px;
 }
 
-img {
-    max-width: 100%;
+
+#fond{
+    background-image:url(image/fondrouge.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+
+header img {
+    max-width: 90px;
+}
+
+#txt {
+    float: right;
+    width: 90%;
+    text-align: center;
 }
