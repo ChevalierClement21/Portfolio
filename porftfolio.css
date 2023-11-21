@@ -1,3 +1,8 @@
+html{
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+}
+
 #format{
     width: 1000px;
     margin-left: auto;
@@ -27,3 +32,10 @@ header img {
     width: 90%;
     text-align: center;
 }
+
+#competence h2{
+    color: lightslategray;
+    float: left;
+    background-color: #AF0000
+}
+
